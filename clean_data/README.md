@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # Data Cleaning Workflow & Data Description
 
 The cleaned data outlined in this repository
